@@ -23,6 +23,8 @@
 
 - 🛠️ **Foundations:** C#, C++, PHP, MySQL, Networking & System Administration
 
+<br clear="both"/>
+
 ---
 
 ### 🛠️ Languages and Tools:
