@@ -7,21 +7,21 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
+<img align="right" src="./smartz_data_processing.svg" width="32%" alt="Smartz Data Processing"/>
 
-- 🔭 **I’m currently working on:** **[TeamSmartz](https://github.com/teamsmartz)**
+- 🔭 **I’m currently working on:** **[Smartz](https://github.com/teamsmartz)**
+
+<br/>
+
 - 🎓 **Education:** Information Systems & Programming at College of Innovative Technologies & Entrepreneurship (КИТП)
-- 🚀 **Main Focus:** Back-End Development with **Node.js, Express & MongoDB**
-- 🛠️ **Foundations:** C#, C++, PHP, MySQL, Networking & System Administration
 
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="./smartz_data_processing.svg" width="100%" alt="Smartz Data Processing"/>
-    </td>
-  </tr>
-</table>
+<br/>
+
+- 🚀 **Main Focus:** Back-End Development with **Node.js, Express & MongoDB**
+
+<br/>
+
+- 🛠️ **Foundations:** C#, C++, PHP, MySQL, Networking & System Administration
 
 ---
 
