@@ -1,39 +1,51 @@
-# Hi there, I'm Hussein Mayhoub 👋
+<h1 align="center">Hi 👋, I'm Hussein Mayhoub</h1>
+<h3 align="center">Back-End Developer & Information Systems Student</h3>
 
-Back-End Developer currently focusing on the Node.js ecosystem, with a solid foundation in software engineering and IT infrastructure.
-
-### 👨‍💻 About Me
-- 🎓 Studying **Information Systems & Programming** at the College of Innovative Technologies & Entrepreneurship (КИТП).
-- 💻 Core team member and developer at **[Smartz](https://github.com/teamsmartz)**.
-- 🚀 Focused on building scalable web applications and RESTful APIs.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=husseinmayhoub&label=Profile%20views&color=0066ff&style=flat" alt="husseinmayhoub" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
-**Languages:**
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+- 🔭 **I’m currently working on:** **[TeamSmartz](https://github.com/teamsmartz)**
+- 🎓 **Education:** Information Systems & Programming at College of Innovative Technologies & Entrepreneurship (КИТП)
+- 🚀 **Main Focus:** Back-End Development with **Node.js, Express & MongoDB**
+- 🛠️ **Foundations:** C#, C++, PHP, MySQL, Networking & System Administration
 
-**Back-End & Databases:**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & Infrastructure:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="./smartz_data_processing.svg" width="100%" alt="Smartz Data Processing"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=husseinmayhoub&show_icons=true&theme=transparent&hide_border=true" alt="Hussein's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husseinmayhoub&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="background-color: white; border-radius: 4px; padding: 2px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" style="filter: invert(1);"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Overview:
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/husseinmayhoub?label=Followers&logo=github&style=for-the-badge&color=0066ff&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/stars/husseinmayhoub?label=Total%20Stars&logo=github&style=for-the-badge&color=0066ff&labelColor=0d1117" />
 </p>
