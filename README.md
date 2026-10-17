@@ -9,7 +9,7 @@
 
 <img align="right" src="./smartz_data_processing.svg" width="32%" alt="Smartz Data Processing"/>
 
-- 🔭 **I’m currently working on:** **[Smartz](https://github.com/teamsmartz)**
+- 🔭 **I’m currently working on:** **[Team Smartz](https://teamsmartz.tech/)**
 
 <br/>
 
